@@ -62,8 +62,9 @@ Google’s **QuickDraw Dataset** was used. The `.npy` files were automatically d
 └── README.md
 
 Demo:
-![Screenshot (600)](https://github.com/user-attachments/assets/cb704806-f9cc-46bc-8346-8baac2825f9a)
-![Screenshot (601)](https://github.com/user-attachments/assets/12c69f00-05fe-4f99-bba2-1dfb87249fdb)
+![image](https://github.com/user-attachments/assets/021b1e33-16a3-459f-8920-f98048af91dc)
+![image](https://github.com/user-attachments/assets/27dbb86e-65f1-4af6-8fe9-2251824f5683)
+
 
 ## 🧪 How to Run
 
