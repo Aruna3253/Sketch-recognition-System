@@ -60,6 +60,11 @@ Google’s **QuickDraw Dataset** was used. The `.npy` files were automatically d
 ├── dataset/ # (Auto-downloaded QuickDraw .npy files)
 ├── myenv
 └── README.md
+
+Demo:
+![Screenshot (600)](https://github.com/user-attachments/assets/cb704806-f9cc-46bc-8346-8baac2825f9a)
+![Screenshot (601)](https://github.com/user-attachments/assets/12c69f00-05fe-4f99-bba2-1dfb87249fdb)
+
 ## 🧪 How to Run
 
 ### 📦 1. Create a Virtual Environment
@@ -75,8 +80,6 @@ mediapipe
 matplotlib
 numpy
 seaborn
-Demo:
-![Screenshot (600)](https://github.com/user-attachments/assets/cb704806-f9cc-46bc-8346-8baac2825f9a)
-![Screenshot (601)](https://github.com/user-attachments/assets/12c69f00-05fe-4f99-bba2-1dfb87249fdb)
+
 
 
